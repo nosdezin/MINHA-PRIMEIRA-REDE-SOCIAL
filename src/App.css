@@ -40,7 +40,7 @@
 }
 
 .post-maker .btn-image {
-  height: 60px;
+  height: 40px;
   border: 2px solid #c4c4c4;
   border-radius: 10px;
   width: 500px;
@@ -53,10 +53,6 @@
 .post-maker .btn-post:hover {
   background-color: #acaaaa;
 }
-/* 
-.post-maker .btn-image input {
-  display: none;
-} */
 
 .post-list {
   flex: 1;
